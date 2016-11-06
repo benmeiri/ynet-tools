@@ -1,0 +1,26 @@
+.live-ynet-extention-tv{	
+	background: #CFC1C1;
+	position: relative;
+	height: 100%;
+}
+
+.ynet-extension-button{
+	display: inline-block;
+	
+	margin-top: 50px;
+	margin-right: 50px;
+	border: 1px solid #dedede;
+	background: white;
+	padding: 5px;
+	box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.44);
+
+}
+
+.ynet-extension-button:hover{
+	background: #9B9191;
+	cursor: pointer;
+}
+
+.live-tv-height .live-ynet-extention-tv{
+	height: 340px;
+}
